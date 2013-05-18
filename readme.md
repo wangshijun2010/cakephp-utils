@@ -20,6 +20,8 @@ each component.
 * SoftDelete     - soft deleting for model.
 * TinySluggable  - creates tiny slugs similar to known url shorteners like bit.ly
 * Toggleable     - toggle field values
+* Isolated       - isolate data for different tenants based on a key
+* Recyclable     - soft delete data
 
 ## Libraries
 
